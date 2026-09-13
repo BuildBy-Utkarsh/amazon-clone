@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://amazon-spoof.netlify.app/"><b>🔗 Live Demo</b></a> •
+  <a href= https://amazon-spoof.netlify.app><b>🔗 Live Demo</b></a> •
   <a href="#-screenshots"><b>📸 Screenshots</b></a> •
   <a href="#-features"><b>✨ Features</b></a> •
   <a href="#-getting-started"><b>⚙️ Getting Started</b></a>
