@@ -31,7 +31,7 @@ Don't just read about it — see it in action. Every button, banner, and product
 |:---:|:---:|
 | ![Home Page](./homepage.png) | ![Products](./products.png) |
 
-*(Swap these placeholder images for real screenshots of your project — this is the single biggest thing that gets people to click your live demo.)*
+
 
 ---
 
