@@ -58,7 +58,7 @@ Want to run it locally? It's as simple as it gets:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/amazon-clone.git
+git clone https://github.com/BuildBy-Utkarsh/amazon-clone.git
 
 # Move into the project folder
 cd amazon-clone
