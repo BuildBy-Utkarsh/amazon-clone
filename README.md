@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href= https://amazon-spoof.netlify.app><b>🔗 Live Demo</b></a> •
+  <a href= "#-live-demo"><b>🔗 Live Demo</b></a> •
   <a href="#-screenshots"><b>📸 Screenshots</b></a> •
   <a href="#-features"><b>✨ Features</b></a> •
   <a href="#-getting-started"><b>⚙️ Getting Started</b></a>
@@ -19,7 +19,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[Check out the live site here](#)** — *(replace this `#` with your GitHub Pages / Netlify / Vercel link)*
+👉 **[Check out the live site here](https://amazon-spoof.netlify.app/)** — *(replace this `#` with your GitHub Pages / Netlify / Vercel link)*
 
 Don't just read about it — see it in action. Every button, banner, and product card was crafted to look and feel like the real thing.
 
