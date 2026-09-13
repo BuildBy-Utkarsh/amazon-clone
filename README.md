@@ -29,7 +29,7 @@ Don't just read about it — see it in action. Every button, banner, and product
 
 | Home Page | Product Section |
 |:---:|:---:|
-| (![alt text]image.png) | ![Products]![alt text](image-1.png) |
+| ![Home Page](c:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2026-09-13 170543.png) | ![Products](https://via.placeholder.com/500x300?text=Products+Screenshot) |
 
 *(Swap these placeholder images for real screenshots of your project — this is the single biggest thing that gets people to click your live demo.)*
 
