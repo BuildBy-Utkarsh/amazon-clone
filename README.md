@@ -19,7 +19,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[Check out the live site here](https://amazon-clone-rose-three.vercel.app/)** — 
+👉 **[Check out the live site here](https://amazon-clone-rose-three.vercel.app/)** 
 
 Don't just read about it — see it in action. Every button, banner, and product card was crafted to look and feel like the real thing.
 
