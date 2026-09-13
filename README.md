@@ -19,7 +19,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[Check out the live site here](https://amazon-spoof.netlify.app/)** — *(replace this `#` with your GitHub Pages / Netlify / Vercel link)*
+👉 **[Check out the live site here](https://amazon-clone-rose-three.vercel.app/)** — *(replace this `#` with your GitHub Pages / Netlify / Vercel link)*
 
 Don't just read about it — see it in action. Every button, banner, and product card was crafted to look and feel like the real thing.
 
@@ -29,7 +29,7 @@ Don't just read about it — see it in action. Every button, banner, and product
 
 | Home Page | Product Section |
 |:---:|:---:|
-| ![Home Page](https://via.placeholder.com/500x300?text=Homepage+Screenshot) | ![Products](https://via.placeholder.com/500x300?text=Products+Screenshot) |
+| ![Home Page](![alt text](image.png)) | ![Products](https://via.placeholder.com/500x300?text=Products+Screenshot) |
 
 *(Swap these placeholder images for real screenshots of your project — this is the single biggest thing that gets people to click your live demo.)*
 
